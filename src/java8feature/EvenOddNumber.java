@@ -1,4 +1,4 @@
-package java8;
+package java8feature;
 
 import java.util.function.Predicate;
 

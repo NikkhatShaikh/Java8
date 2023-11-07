@@ -1,4 +1,4 @@
-package java8;
+package java8feature;
 
 public class BeforeJava8 {
 
