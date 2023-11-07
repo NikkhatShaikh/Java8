@@ -1,5 +1,9 @@
 package java8feature.lambdaexpression;
 
+import java8feature.lambdaexpression.interfacess.FunctionalInterface;
+import java8feature.lambdaexpression.interfacess.LengthInterface;
+import java8feature.lambdaexpression.interfacess.SumInterface;
+
 public class LambdaExpression {
 
 
